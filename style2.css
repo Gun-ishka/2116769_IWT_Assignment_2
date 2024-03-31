@@ -1,0 +1,17 @@
+body{
+    background-color:pink;
+    background-image:url('images/20.jpeg'), url('images/18.jpg');
+    background-size:300px, contain;
+    background-position:center center, 0 center;
+    background-attachment:fixed;
+    text-transform:uppercase;
+}
+
+   
+p{
+    background-color: rgba(255, 255, 0, 0.6);
+    background-image: radial-gradient(rgba(255, 255, 0, 0.159)70%, green 70%);
+    line-height: 2em;
+   
+    
+}
